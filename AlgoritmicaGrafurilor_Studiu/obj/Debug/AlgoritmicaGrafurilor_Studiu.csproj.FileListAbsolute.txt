@@ -1,0 +1,10 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\bin\Debug\AlgoritmicaGrafurilor_Studiu.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\bin\Debug\AlgoritmicaGrafurilor_Studiu.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\bin\Debug\AlgoritmicaGrafurilor_Studiu.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\obj\Debug\AlgoritmicaGrafurilor_Studiu.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\obj\Debug\AlgoritmicaGrafurilor_Studiu.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\obj\Debug\AlgoritmicaGrafurilor_Studiu.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\obj\Debug\AlgoritmicaGrafurilor_Studiu.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\obj\Debug\AlgoritmicaGrafurilor_Studiu.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\obj\Debug\AlgoritmicaGrafurilor_Studiu.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\AlgoritmicaGrafurilor_Studiu\obj\Debug\AlgoritmicaGrafurilor_Studiu.pdb

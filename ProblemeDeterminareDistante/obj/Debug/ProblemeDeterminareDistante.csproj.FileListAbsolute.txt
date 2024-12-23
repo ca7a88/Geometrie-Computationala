@@ -1,0 +1,11 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\obj\Debug\ProblemeDeterminareDistante.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\obj\Debug\ProblemeDeterminareDistante.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\obj\Debug\ProblemeDeterminareDistante.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\obj\Debug\ProblemeDeterminareDistante.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\obj\Debug\ProblemeDeterminareDistante.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\obj\Debug\ProblemeDeterminareDistante.Form1.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\bin\Debug\ProblemeDeterminareDistante.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\bin\Debug\ProblemeDeterminareDistante.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\bin\Debug\ProblemeDeterminareDistante.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\obj\Debug\ProblemeDeterminareDistante.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\ProblemeDeterminareDistante\obj\Debug\ProblemeDeterminareDistante.pdb

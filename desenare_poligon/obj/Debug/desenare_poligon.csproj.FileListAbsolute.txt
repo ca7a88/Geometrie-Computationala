@@ -1,0 +1,11 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\obj\Debug\desenare_poligon.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\obj\Debug\desenare_poligon.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\obj\Debug\desenare_poligon.Form1.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\obj\Debug\desenare_poligon.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\obj\Debug\desenare_poligon.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\obj\Debug\desenare_poligon.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\bin\Debug\desenare_poligon.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\bin\Debug\desenare_poligon.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\bin\Debug\desenare_poligon.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\obj\Debug\desenare_poligon.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\desenare_poligon\obj\Debug\desenare_poligon.pdb
