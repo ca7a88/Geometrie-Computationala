@@ -1,0 +1,11 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\obj\Debug\TemaTriangulareaPrinOtectomie.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\obj\Debug\TemaTriangulareaPrinOtectomie.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\obj\Debug\TemaTriangulareaPrinOtectomie.Form1.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\obj\Debug\TemaTriangulareaPrinOtectomie.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\obj\Debug\TemaTriangulareaPrinOtectomie.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\obj\Debug\TemaTriangulareaPrinOtectomie.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\bin\Debug\TemaTriangulareaPrinOtectomie.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\bin\Debug\TemaTriangulareaPrinOtectomie.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\bin\Debug\TemaTriangulareaPrinOtectomie.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\obj\Debug\TemaTriangulareaPrinOtectomie.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriangulareaPrinOtectomie\obj\Debug\TemaTriangulareaPrinOtectomie.pdb
