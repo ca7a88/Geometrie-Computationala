@@ -1,0 +1,11 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\bin\Debug\TriangularePoligoaneMonotone.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\bin\Debug\TriangularePoligoaneMonotone.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\bin\Debug\TriangularePoligoaneMonotone.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\obj\Debug\TriangularePoligoaneMonotone.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\obj\Debug\TriangularePoligoaneMonotone.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\obj\Debug\TriangularePoligoaneMonotone.Form1.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\obj\Debug\TriangularePoligoaneMonotone.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\obj\Debug\TriangularePoligoaneMonotone.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\obj\Debug\TriangularePoligoaneMonotone.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\obj\Debug\TriangularePoligoaneMonotone.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TriangularePoligoaneMonotone\obj\Debug\TriangularePoligoaneMonotone.pdb

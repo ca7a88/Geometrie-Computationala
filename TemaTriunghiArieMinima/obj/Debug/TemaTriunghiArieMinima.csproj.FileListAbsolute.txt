@@ -1,0 +1,11 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\bin\Debug\TemaTriunghiArieMinima.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\bin\Debug\TemaTriunghiArieMinima.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\bin\Debug\TemaTriunghiArieMinima.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\obj\Debug\TemaTriunghiArieMinima.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\obj\Debug\TemaTriunghiArieMinima.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\obj\Debug\TemaTriunghiArieMinima.Form1.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\obj\Debug\TemaTriunghiArieMinima.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\obj\Debug\TemaTriunghiArieMinima.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\obj\Debug\TemaTriunghiArieMinima.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\obj\Debug\TemaTriunghiArieMinima.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaTriunghiArieMinima\obj\Debug\TemaTriunghiArieMinima.pdb
