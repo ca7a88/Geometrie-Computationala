@@ -1,0 +1,11 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\bin\Debug\TemaConvexHullJarvis.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\bin\Debug\TemaConvexHullJarvis.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\bin\Debug\TemaConvexHullJarvis.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\obj\Debug\TemaConvexHullJarvis.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\obj\Debug\TemaConvexHullJarvis.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\obj\Debug\TemaConvexHullJarvis.Form1.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\obj\Debug\TemaConvexHullJarvis.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\obj\Debug\TemaConvexHullJarvis.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\obj\Debug\TemaConvexHullJarvis.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\obj\Debug\TemaConvexHullJarvis.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHullJarvis\obj\Debug\TemaConvexHullJarvis.pdb

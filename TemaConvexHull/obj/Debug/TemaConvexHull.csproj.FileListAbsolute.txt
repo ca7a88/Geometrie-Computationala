@@ -1,0 +1,11 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\bin\Debug\TemaConvexHull.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\bin\Debug\TemaConvexHull.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\bin\Debug\TemaConvexHull.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\obj\Debug\TemaConvexHull.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\obj\Debug\TemaConvexHull.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\obj\Debug\TemaConvexHull.Form1.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\obj\Debug\TemaConvexHull.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\obj\Debug\TemaConvexHull.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\obj\Debug\TemaConvexHull.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\obj\Debug\TemaConvexHull.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaConvexHull\obj\Debug\TemaConvexHull.pdb

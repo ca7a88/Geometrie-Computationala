@@ -1,0 +1,11 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\bin\Debug\TemaDreptunghiArieMinima.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\bin\Debug\TemaDreptunghiArieMinima.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\bin\Debug\TemaDreptunghiArieMinima.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\obj\Debug\TemaDreptunghiArieMinima.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\obj\Debug\TemaDreptunghiArieMinima.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\obj\Debug\TemaDreptunghiArieMinima.Form1.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\obj\Debug\TemaDreptunghiArieMinima.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\obj\Debug\TemaDreptunghiArieMinima.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\obj\Debug\TemaDreptunghiArieMinima.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\obj\Debug\TemaDreptunghiArieMinima.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaDreptunghiArieMinima\obj\Debug\TemaDreptunghiArieMinima.pdb

@@ -1,0 +1,11 @@
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\bin\Debug\TemaCercArieMinima.exe.config
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\bin\Debug\TemaCercArieMinima.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\bin\Debug\TemaCercArieMinima.pdb
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\obj\Debug\TemaCercArieMinima.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\obj\Debug\TemaCercArieMinima.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\obj\Debug\TemaCercArieMinima.Form1.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\obj\Debug\TemaCercArieMinima.Properties.Resources.resources
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\obj\Debug\TemaCercArieMinima.csproj.GenerateResource.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\obj\Debug\TemaCercArieMinima.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\obj\Debug\TemaCercArieMinima.exe
+C:\Users\rotar\source\repos\GeometrieComputationala_Studiu\TemaCercArieMinima\obj\Debug\TemaCercArieMinima.pdb
